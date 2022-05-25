@@ -1,0 +1,30 @@
+{
+  "name": "hello-microverse",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webhint": "npx hint .",
+    "stylelint": "npx stylelint **/*.{css,scss} --fix",
+    "eslint": "npx eslint . --fix "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NATASHA-ct/HELLO-MICROVERSE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NATASHA-ct/HELLO-MICROVERSE/issues"
+  },
+  "homepage": "https://github.com/NATASHA-ct/HELLO-MICROVERSE#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
