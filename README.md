@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HELLO MICROVERSE
 
-> Description the project.
+> A simple html and css built project.The project also involves installation of linters and activating Github Actions.
+> Worked with github flow throughout the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo (if available)
 
@@ -25,32 +25,25 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+-Github flow knowledge.
+-Basic CSS and HTML.
+-Installation of files.
 
 ### Setup
+-To clone the repository run `https://github.com/NATASHA-ct/Hello-World.git` in your terminal
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+-Set up Github Actions
+-Set up linter > Lighthouse , Webhint ,Stylelint
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@NATASHA-ct]((https://github.com/NATASHA-ct)
+- Twitter: [@NatashaChirombe]
+- LinkedIn: [Natasha Chirombe](linkedin.com/in/natasha-chirombe-1531aa17b)
 
 ## 🤝 Contributing
 
@@ -61,12 +54,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
